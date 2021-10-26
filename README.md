@@ -10,7 +10,7 @@ This tutorial is written assuming you have advanced knowledge on networking.
 4. Python threading is recommended for real-time update!
 
 --WHAT NEED TO DO--
-Better Tkinter management
-Using 2048 bit encrypted connection for packets security
-Active user list
-Active video streaming
+1. Better Tkinter management
+2. Using 2048 bit encrypted connection for packets security
+3. Active user list
+4. Active video streaming
